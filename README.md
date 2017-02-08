@@ -1,8 +1,11 @@
 # Broccoli-Defender--Rise-of-the-blood-sugar---Picnic-Wall-Defender-
 
 Game name:	Broccoli Defender: Rise of the blood sugar! (Picnic Wall Defender)
+
 Class:		PROG33921 Game Engineering Principles 1161_76003
+
 Students:	Andre Rampersad & Jason Cobbledick
+
 
 In this game, all that stands between an innocent picnic and hordes of evil junk food is a lone broccoli warrior.
 He has one mission: HOLD. THE. LINE! Should any of the nasty junk food get into the basket, the innocent family is doomed to a life
